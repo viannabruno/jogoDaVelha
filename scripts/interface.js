@@ -49,7 +49,8 @@ function updateSquare(position){
 
 function resetGame() {
 
-    // window.location.reload();
+    // window.location.reload(); //da reload na janela não é isso que eu quero
+
 
     let squares = document.querySelectorAll(".square");
 
